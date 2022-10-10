@@ -1,6 +1,6 @@
 # Rest API in Golang
 
-This is the Rest API source code on Go with Fiber
+This is the Rest API source code on Go programming language
 
 Assignment 2 Hendri Muda (149368582101-334)
 
