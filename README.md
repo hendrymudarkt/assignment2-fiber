@@ -1,4 +1,4 @@
-# Rest API in Golang with Gorm, Fiber & MySQL
+# Rest API in Golang
 
 This is the Rest API source code on Go with Fiber
 
