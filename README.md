@@ -2,6 +2,8 @@
 
 This is the Rest API source code on Go with Fiber
 
+Assignment 2 Hendri Muda (149368582101-334)
+
 ## Description
 
 To fulfill assignment 2 in the Hacktiv8 Scalable Web Service with Golang - DTS Kominfo training
